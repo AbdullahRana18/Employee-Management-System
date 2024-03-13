@@ -1,0 +1,86 @@
+D:\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+D:\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form1.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+D:\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Dashbored.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EMPLOYEE.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.salary.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.SEARCH.resources
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.Licensing.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.Utils.dll
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Employee Management System\Employee Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.userreg.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.lgreg.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.portal.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.userdashboard.resources
+D:\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.dashboardui.resources
